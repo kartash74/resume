@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут
 
-[Моя первая работа на HTML & CSS](https://github.com/kartash74/resume)
+[Моя первая работа на HTML & CSS](https://kartash74.github.io/resume/)
